@@ -4,6 +4,6 @@
 
 ## 基础二-函数，模块 [跳转](https://github.com/3114aaa/Python-2)
 
-## 基础三-异常 [跳转](https://github.com/3114aaa/Python-directory/edit/main/README.md)
+## 基础三-异常 [跳转](https://github.com/3114aaa/Python-3)
 
 ## 模块集
