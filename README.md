@@ -13,5 +13,5 @@
 ## 基础三-异常:o: [跳转](https://github.com/3114aaa/Python-3)
 ## 算法
 <details><summary>展开</summary>
-<p><b>排序算法</b><a href="https://github.com/3114aaa/Python-a">跳转</a></p>
+<p><b>排序算法</b><a href="https://github.com/3114aaa/math">跳转</a></p>
 </details>
